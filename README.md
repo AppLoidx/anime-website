@@ -1,2 +1,3 @@
-# anime-website
-Some practice for web development
+# Anime Website
+
+Developing websit with http://react-toolbox.io/
